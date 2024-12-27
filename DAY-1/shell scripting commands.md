@@ -1,6 +1,10 @@
 Essential Shell Scripting for DevOps
 Shell scripting is an invaluable skill for DevOps engineers, allowing for the automation of repetitive or complex tasks. This enhances efficiency and ensures reliability in continuous integration and deployment pipelines. Below, you'll find key shell commands and scripting concepts that every DevOps professional should be familiar with.
+
+
+
 Table of Contents
+
 Navigation and File Manipulation
 Text Processing
 System Monitoring and Management
@@ -10,7 +14,9 @@ Job Scheduling
 Scripting Constructs
 Version Control
 Package Management
+
 Navigation and File Manipulation
+
 cd - Change directory.
 ls - List directory contents.
 cp - Copy files or directories.
